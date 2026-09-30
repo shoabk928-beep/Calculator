@@ -37,9 +37,6 @@ This repository provides a lightweight, deterministic CLI application for core m
 
 Ensure you have a C++ toolchain and build tools installed:
 
-```bash
-# Ubuntu / Debian
-sudo apt update && sudo apt install build-essential cmake
 
 # macOS (Homebrew)
 brew install cmake gcc
